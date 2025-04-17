@@ -1,6 +1,6 @@
 # Expressive Interfaces
 
-A Node.js application that displays expressive robot faces with different emotions. The application uses OpenAI's GPT-4o model to detect emotions from user text input.
+A Node.js application that displays expressive robot faces with different emotions. The application uses OpenAI's GPT-4o model to translate robot response to emotion.
 
 ## Features
 
